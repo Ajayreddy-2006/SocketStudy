@@ -82,9 +82,11 @@ s.send("acknowledgement recived from the server".encode())
 ##Output:
 
 ##Client:
+
 ![Screenshot 2024-05-07 154227](https://github.com/Ajayreddy-2006/SocketStudy/assets/145742508/53544c79-036e-4883-82b9-d71eb5a07c08)
 
-##SServer:
+##Server:
+
 ![Screenshot 2024-05-07 154209](https://github.com/Ajayreddy-2006/SocketStudy/assets/145742508/bb522054-c2b2-47ab-a628-32855e5fdf7c)
 
 
